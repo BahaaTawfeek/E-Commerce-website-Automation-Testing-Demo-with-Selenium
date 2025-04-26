@@ -41,20 +41,6 @@ Java JDK 8+
 Maven
 
 Chrome/Firefox browser
-
-Steps to Run Tests
-Clone the repo:
-
-bash
-git clone https://github.com/YahiaHisham/Selenium-UI-Practice.git  
-Navigate to project directory:
-
-bash
-cd Selenium-UI-Practice  
-Run tests via TestNG:
-
-bash
-mvn clean test  
 Generate Allure report:
 
 bash
