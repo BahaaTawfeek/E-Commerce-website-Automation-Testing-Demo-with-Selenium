@@ -1,4 +1,4 @@
-Selenium UI Automation Testing Demo
+e-commerce website Automation Testing Demo
 
 Test Site: AutomationExercise.com
 
