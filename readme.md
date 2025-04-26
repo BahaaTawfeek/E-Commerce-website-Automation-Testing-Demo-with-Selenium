@@ -59,13 +59,7 @@ Parallel Execution: Scale tests using Selenium Grid.
 
 Dockerize: Containerize for portability.
 
-📜 License
-MIT License.
 
-Why This README Works
-Recruiter-Friendly:
-
-Highlights Selenium, POM, CI/CD—keywords recruiters scan for.
 
 Clearly maps test scenarios to real-world e-commerce workflows.
 
